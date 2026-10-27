@@ -38,8 +38,6 @@
 
 </div>
 
-> ✏️ Edit this list to match what you actually use. Browse badges at [shields.io](https://shields.io) or [simpleicons.org](https://simpleicons.org).
-
 ---
 
 ## 📌 Featured Projects
