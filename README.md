@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vertical=true&width=500&lines=Just+codin'.;Building+web+apps+end+to+end;Software+Engineering+student;Based+in+the+Dominican+Republic+%F0%9F%87%A9%F0%9F%87%B4" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Ureña-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ángel-ureña-2b32892b7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Ureña-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-urena-2b32892b7/)
 ![Profile Views](https://komarev.com/ghpvc/?username=miguelangelurena&style=for-the-badge&color=36BCF7)
 
 </div>
